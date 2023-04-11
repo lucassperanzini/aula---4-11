@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&family=Sedgwick+Ave+Display&display=swap');
+
+html {
+    font-size: 2em;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+
+}
+
+h2 {
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+
+.primeiro {
+
+    font-family: 'Sedgwick Ave Display', cursive;
+
+}
+
+.segundo {
+
+    font-family: 'Playfair Display', serif;
+}
